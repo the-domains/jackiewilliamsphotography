@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T14:16:20.963Z'
-dateModified: '2015-12-27T14:15:39.982Z'
+datePublished: '2015-12-27T14:26:42.188Z'
+dateModified: '2015-12-27T14:26:35.435Z'
 title: New River Valley Fair
 author: []
+sourcePath: _posts/2015-12-27-new-river-valley-fair.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-27-new-river-valley-fair.md
-published: true
 url: new-river-valley-fair/index.html
 _type: Article
 
