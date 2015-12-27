@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T14:23:46.621Z'
-dateModified: '2015-12-27T14:23:38.396Z'
+datePublished: '2015-12-27T14:26:50.243Z'
+dateModified: '2015-12-27T14:25:52.952Z'
 title: The White House
 author: []
 sourcePath: _posts/2015-12-27-the-white-house.md
