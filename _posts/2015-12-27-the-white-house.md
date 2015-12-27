@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-27T14:26:50.243Z'
-dateModified: '2015-12-27T14:25:52.952Z'
+description: "Early January 2013 I was selected to intern in the White House Photo Office. I experienced the 2013 Inauguration of President Obama, the fight for Gun Control, Medal of Honor award ceremonies and even the Mother's Day Tea hosted by the First Lady and Prince Harry. These are just a few of the photos I took during my time there- what felt like a dream."
+datePublished: '2015-12-27T14:28:55.027Z'
+dateModified: '2015-12-27T14:28:50.650Z'
 title: The White House
 author: []
 sourcePath: _posts/2015-12-27-the-white-house.md
